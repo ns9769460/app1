@@ -1,0 +1,6 @@
+{
+  "name": "English Speaking",
+  "description": "Master 2,000 common English words in 20 chapters with active speaking practice and 5 daily sentence examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
